@@ -35,13 +35,13 @@
   <h3> I'm 19 years old learning Full Stack Web Developer from India.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🥀 Learning Data Analytics & Machine learning
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 Gaming for life, second to none😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ - 🛸 Love technology and innovation, unending curiousity for latest tech 
  
  - I do fullstack and much of every thing :heart:
  
