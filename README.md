@@ -6,7 +6,7 @@
 </div>
 <div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F74C8D&size=30&lines=CSE%2C+Data+Science;VIT%2C+Vellore"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F745AC&size=30&lines=CSE%2C+Data+Science%2C+VIT+Vellore"></a>
 </p>
 </div>
 
