@@ -4,10 +4,11 @@
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
-
+<div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F74C8D&size=30&lines=CSE%2C+Data+Science;VIT%2C+Vellore"></a>
 </p>
+</div>
 
 <p align='center'>
    <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
