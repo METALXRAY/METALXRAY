@@ -32,6 +32,8 @@
    <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/METALXRAY/METALXRAY"> </a>
  </p>
  
+ 
+ 
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
@@ -225,5 +227,11 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
+<!--   <img align="right" alt="Coding" width="200" src=""> -->
+</p>
+
+
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
