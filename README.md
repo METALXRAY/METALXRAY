@@ -1,4 +1,4 @@
-[![MasterHead](<a href="https://ibb.co/3SFdyhZ"><img src="https://i.ibb.co/YfdQ7js/banner.png" alt="banner" border="0"></a>)](https://github.com/METALXRAY)
+[![MasterHead](https://i.ibb.co/YfdQ7js/banner.png)](https://github.com/METALXRAY)
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Aaryan Bhatia Ghosh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
