@@ -35,7 +35,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://tenor.com/view/minimalist-gif-9978489" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" />
 <p align="center">
   <h3> I'm 19 years old learning Full Stack Web Developer from India.</h3>
 </p>
