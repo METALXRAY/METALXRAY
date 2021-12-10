@@ -1,8 +1,7 @@
-[![MasterHead](https://i.ibb.co/Xy6TFYp/metalxray.png)](https://github.com/METALXRAY)
+[![MasterHead](./banner.png)](https://github.com/METALXRAY)
 
 <div align="center">
-   <a href="https://ibb.co/3fVHSRW"><img src="https://i.ibb.co/Xy6TFYp/metalxray.png" alt="metalxray" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'></a><br />
-   
+
    <h1>Hi there, I'm <a href="https://hemant.codes">Aaryan Bhatia Ghosh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
