@@ -226,27 +226,32 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
-<!--   <img align="right" alt="Coding" width="200" src=""> -->
-</p>
+
+
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
+<!--   <img align="right" alt="Coding" width="200" src=""> -->
+</p>
+
+
+<!-- <a href="https://github.com/METALXRAY">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a> -->
+
 <a href="https://github.com/METALXRAY">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=METALXRAY&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/METALXRAY">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+
 
 <br>
 <br>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
