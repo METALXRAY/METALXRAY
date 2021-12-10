@@ -1,6 +1,7 @@
-[![MasterHead](./banner.png)](https://github.com/METALXRAY)
+[![MasterHead](https://i.ibb.co/Xy6TFYp/metalxray.png)](https://github.com/METALXRAY)
 
 <div align="center">
+   <a href="https://ibb.co/3fVHSRW"><img src="https://i.ibb.co/Xy6TFYp/metalxray.png" alt="metalxray" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'></a><br />
    
    <h1>Hi there, I'm <a href="https://hemant.codes">Aaryan Bhatia Ghosh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
@@ -223,5 +224,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
