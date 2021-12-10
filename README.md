@@ -8,11 +8,9 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F71F86&size=30&lines=C+O+D+I+N+G+.+.+.+.+.+.+.+.+.+.+.+.+.+.+)](https://git.io/typing-svg)
-
 <div>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=%23F745AC&size=30&lines=CSE%2C+Data+Science">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%23F71F86&size=30&lines=C+O+D+I+N+G+.+.+.+.+.+.+.+.+.+.+.+.+.+.+">
 </p>
 </div>
 
