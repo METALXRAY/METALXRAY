@@ -29,7 +29,7 @@
 
 <p align="center">
    <a href="https://twitter.com/AaryanBG"></a>
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/METALXRAY/METALXRAY"> </a>
+   <a href="https://badges.pufler.dev/visits/METALXRAY/METALXRAY"> <img alt="METALXRAY github" src="https://badges.pufler.dev/visits/METALXRAY/METALXRAY"> </a>
  </p>
  
  
