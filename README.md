@@ -69,7 +69,7 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/master/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="METALXRAY/METALXRAY/master/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/master/svg/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/master/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/master/svg/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
