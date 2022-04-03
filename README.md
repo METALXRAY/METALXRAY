@@ -69,11 +69,11 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/Master/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/Master/svg/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/Master/svg/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/Master/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/Master/svg/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/Master/svg/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/METALXRAY/METALXRAY/Master/svg/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
