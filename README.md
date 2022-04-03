@@ -14,14 +14,6 @@
 </p>
 </div>
 
-<p align='center'>
-   <a href="#"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src=""></a>&nbsp;&nbsp;
- <a href="#"><img height="30" src=""></a>&nbsp;&nbsp;
- </p>
-
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Aaryan Bhatia Ghosh | 💻 Data Science Student | 🛸 New Delhi, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
