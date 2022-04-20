@@ -80,6 +80,10 @@
 
 <br>
 
+<p align="center">
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
+</p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
 <!--   <img align="right" alt="Coding" width="200" src=""> -->
 </p>
@@ -95,11 +99,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=METALXRAY&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </p>
-
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
-</p>
-
 <br>
 <br>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
