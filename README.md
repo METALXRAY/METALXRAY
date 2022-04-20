@@ -80,9 +80,6 @@
 
 <br>
 
-<p align="center">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
-</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
 <!--   <img align="right" alt="Coding" width="200" src=""> -->
