@@ -96,12 +96,10 @@
 </a>
 </p>
 
-
-
-<br>
-<br>
 <p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=METALXRAY)](https://git.io/streak-stats)
 </p>
 
+<br>
+<br>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
