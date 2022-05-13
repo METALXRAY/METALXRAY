@@ -35,7 +35,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" />
 <p align="center">
-  <h3> I'm 19 years old learning Full Stack Web Developer from India.</h3>
+  <h3> I'm 19 years old learning Software Development Engineer from India.</h3>
 </p>
 
  - 🥀 Learning Data Analytics & Machine learning
@@ -51,7 +51,7 @@
  - All About living life at its best.
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Full-Stack | Data Science | Competitive Programming </h4>
    </p>
 
 <!--  -->
@@ -70,7 +70,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif" />
    </p>
    
    
