@@ -32,7 +32,7 @@
  
  
 <br />
-<img align="right" height="300px" width="450px" alt="GIF" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" />
+<img align="right" height="410px" width="450px" alt="GIF" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" />
 <p align="center">
   <h3> I'm 19 years old learning Software Development Engineer from India.</h3>
 </p>
