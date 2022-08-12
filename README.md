@@ -80,19 +80,7 @@
 <br>
 
 <div>
-<p align="center">
-<!-- <a href="https://github.com/METALXRAY">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a> -->
-</p>
-
-<p align="center">
-<a href="https://github.com/METALXRAY">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=METALXRAY&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</p>
-
-<p align="centert">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=METALXRAY&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
 <!--   <img align="right" alt="Coding" width="200" src=""> -->
 </p>
 
